@@ -1,5 +1,3 @@
-## Apr 29th, 2022 (Self-score: )
-
 1. One of the components of a computer is its CPU. What is a CPU and what role does it play in a computer?
    - A CPU is a chip that does the computation tasks for a computer and it's the brain of computer.
    - Official answer: The CPU, or Central Processing Unit, is the active part of the computer. Its function is to execute programs that are coded in machine language and stored in the main memory (RAM) of the computer. It does this by repeating the fetch-and-execute cycle over and over; that is, it repeatedly fetches a machine language instruction from memory and executes it.
